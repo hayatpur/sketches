@@ -1,2 +1,2 @@
 # sketches
-Miscellaneous sketches I made over the years using p5.js
+Miscellaneous sketches I made over using mostly p5.js
